@@ -16,4 +16,4 @@ And it worked surprisingly well! Automatic condensing is not perfect by any mean
 * ligatures are working;
 * original stylistic sets are exposed;
 
-Try it yourself!
+[Try it yourself!](https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2Fshytikov%2Fcasmatapro%2Fmain%2Fdist%2FCasmataPro-Regular.ttf)
