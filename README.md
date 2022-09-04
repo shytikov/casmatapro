@@ -2,6 +2,8 @@
 
 A condensed version of [Cascadia Code PL](https://github.com/microsoft/cascadia-code) made to feel like [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/).
 
+![Example](./media/example.png)
+
 ## The story
 
 You know I'm a huge fan of `PragmataPro`. And want more fonts like it, but maybe even tiny better. But it's hard... `PragmataPro` is so readable while being so condensed! Second most readable font in my list is `Cascadia Code`, but it is too wide unfortunately, so I dismissed it from my daily use...
