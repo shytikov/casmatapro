@@ -1,8 +1,13 @@
-# CasmataPro
+# CasmataPro Font
 
 A condensed version of [Cascadia Code PL](https://github.com/microsoft/cascadia-code) made to feel like [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/).
 
 ![Example](./media/example.png)
+
+[regular](https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2Fshytikov%2Fcasmatapro%2Fmain%2Fdist%2FCasmataPro-Regular.ttf) /
+[bold](https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2Fshytikov%2Fcasmatapro%2Fmain%2Fdist%2FCasmataPro-Bold.ttf) /
+[italic](https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2Fshytikov%2Fcasmatapro%2Fmain%2Fdist%2FCasmataPro-Italic.ttf) /
+[bold-italic](https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2Fshytikov%2Fcasmatapro%2Fmain%2Fdist%2FCasmataPro-BoldItalic.ttf)
 
 ## The story
 
@@ -15,5 +20,8 @@ And it worked surprisingly well! Automatic condensing is not perfect by any mean
 * font is crisp and contast;
 * ligatures are working;
 * original stylistic sets are exposed;
+* cursive italics are still there;
 
-[Try it yourself!](https://bulletproof.italic.space/lettering?preload=https%3A%2F%2Fraw.githubusercontent.com%2Fshytikov%2Fcasmatapro%2Fmain%2Fdist%2FCasmataPro-Regular.ttf)
+## Installation
+
+Just grab files from `./dist/` folder
